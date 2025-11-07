@@ -360,3 +360,68 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# ==============================
+# Workspace-specific ignores
+# ==============================
+# Ignore build outputs for all projects
+**/bin/
+**/obj/
+
+# IDE settings
+.vscode/
+.idea/
+.vs/
+
+# Local test data and configuration (do not commit secrets or test artifacts)
+/Models/Configuration.json
+/Models/responseData.json
+
+# Local environment and secrets
+.env
+.env.local
+appsettings.Development.json
+
+# Logs
+*.log
+logs/
+
+# Ignore any generated assembly and pdb files in the workspace
+*.dll
+*.pdb
+
+# Solution-specific ignores (added)
+# These entries are tailored for this repository and local workspace.
+
+# Ignore all build outputs and intermediate files for every project
+**/bin/
+**/obj/
+
+# Ignore Visual Studio and Rider user-specific files
+*.suo
+*.user
+*.userosscache
+*.csproj.user
+*.sln.docstates
+*.sln.ide.user
+*.DotSettings
+
+# Ignore generated msbuild files and caches
+*.FileListAbsolute.txt
+*.AssemblyInfoInputs.cache
+*.csproj.CoreCompileInputs.cache
+*.sourcelink.json
+
+# Ignore obj-generated assembly info and other temp artifacts
+obj/**/RestSharp_Automation.*
+obj/**/RestSharp-Automation.*
+
+# Ignore packaged NuGet and local packages
+**/packages/
+.nuget/packages/
+
+# Local test data and secrets (already present earlier, kept for clarity)
+/Models/Configuration.json
+/Models/responseData.json
+
+# End of solution-specific ignores
