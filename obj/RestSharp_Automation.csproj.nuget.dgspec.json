@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\Test_API\\RestSharp_Automation.csproj": {}
+    "C:\\Users\\admin\\Desktop\\Test\\RestSharp_Automation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\Test_API\\RestSharp_Automation.csproj": {
+    "C:\\Users\\admin\\Desktop\\Test\\RestSharp_Automation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\Test_API\\RestSharp_Automation.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\Test\\RestSharp_Automation.csproj",
         "projectName": "RestSharp_Automation",
-        "projectPath": "C:\\Users\\admin\\Desktop\\Test_API\\RestSharp_Automation.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\Test\\RestSharp_Automation.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\Test_API\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
