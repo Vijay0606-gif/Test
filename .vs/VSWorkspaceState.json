@@ -1,13 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\bin",
-    "\\bin\\Debug",
-    "\\bin\\Release",
-    "\\Models",
-    "\\obj",
-    "\\Tests"
+    ""
   ],
-  "SelectedNode": "\\Tests\\restful-api.cs",
   "PreviewInSolutionExplorer": false
 }
