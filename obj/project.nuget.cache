@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bvO98CFucEY=",
+  "dgSpecHash": "llpIrCwQVeU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Downloads\\RestSharp-Automation-main\\RestSharp-Automation\\RestSharp_Automation.csproj",
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\Test_API\\RestSharp_Automation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\admin\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\admin\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

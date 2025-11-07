@@ -5557,11 +5557,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Downloads\\RestSharp-Automation-main\\RestSharp-Automation\\RestSharp_Automation.csproj",
+      "projectUniqueName": "C:\\Users\\admin\\Desktop\\Test_API\\RestSharp_Automation.csproj",
       "projectName": "RestSharp_Automation",
-      "projectPath": "C:\\Users\\admin\\Downloads\\RestSharp-Automation-main\\RestSharp-Automation\\RestSharp_Automation.csproj",
+      "projectPath": "C:\\Users\\admin\\Desktop\\Test_API\\RestSharp_Automation.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Downloads\\RestSharp-Automation-main\\RestSharp-Automation\\obj\\",
+      "outputPath": "C:\\Users\\admin\\Desktop\\Test_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
